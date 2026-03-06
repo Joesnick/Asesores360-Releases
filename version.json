@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "url_descarga": "https://github.com/Joesnick/Asesores360-Releases/tree/main/RobotDIAN.zip",
+  "url_descarga": "https://raw.githubusercontent.com/Joesnick/Asesores360-Releases/main/RobotDIAN.zip",
   "novedades": "Versión inicial con sistema de licencias, actualizaciones automáticas y reporte de errores a Discord."
 }
