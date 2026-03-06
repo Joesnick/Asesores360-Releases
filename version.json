@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "url_descarga": "https://github.com/Joesnick/rpa_dian_project/tree/main/releases/download/v1.0.0/RobotDIAN.exe",
+  "url_descarga": "https://github.com/Joesnick/Asesores360-Releases/tree/main/RobotDIAN.exe",
   "novedades": "Versión inicial con sistema de licencias, actualizaciones automáticas y reporte de errores a Discord."
 }
