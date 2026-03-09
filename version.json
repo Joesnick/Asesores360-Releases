@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "url_descarga": "https://github.com/Joesnick/Asesores360-Releases/tree/main/RobotDIAN.zip",
+  "url_descarga": "https://raw.githubusercontent.com/Joesnick/Asesores360-Releases/main/RobotDIAN.zip",
   "novedades": "Se corrigió el error que impedía la descarga de documentos, se implementó un extractor de XML que además exporta la información a un archivo Excel con todos los datos necesarios."
 }
