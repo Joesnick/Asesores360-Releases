@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url_descarga": "https://github.com/Joesnick/Asesores360-Releases/releases/download/v1.0.1/ContaClick360.zip",
-  "novedades": "Se agregó la asociación automática del Nombre de Empresa a los NITs registrados para una mejor gestión de licencias. Se mejoró la visualización del panel de NITs."
+  "version": "1.0.2",
+  "url_descarga": "https://github.com/Joesnick/Asesores360-Releases/releases/download/v1.0.2/ContaClick360.zip",
+  "novedades": "Se implementó el soporte para la descarga de Documentos Equivalentes (POS, servicios públicos, etc.) y sus correspondientes Notas de Ajuste. Se optimizó la búsqueda en la DIAN para que sea más rápida. Se mejoró la estructura de carpetas y la normalización de nombres de empresas. Se actualizó el extractor XML para incluir el resumen de documentos equivalentes en el Excel."
 }
