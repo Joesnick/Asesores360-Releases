@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "url_descarga": "https://github.com/Joesnick/Asesores360-Releases/releases/download/v1.0.4/ContaClick360.zip",
-  "novedades": "Clasificación contable ampliada: se agregaron 7 tipos nuevos de compra (seguros, servicios públicos, combustible, viajes y hospedaje, publicidad, mantenimiento y reparaciones, fletes) con sus cuentas PUC por defecto. Nuevo módulo de clasificación a nivel de línea individual de factura (clasificacion_lineas.py) que permite asientos contables más granulares. Se reemplazó el mapeo fijo CIIU→tipo por el catálogo estándar DANE embebido (ciiu_estandar.py), clasificando ahora sobre la descripción oficial del código CIIU del emisor, lo que mejora notablemente la cobertura. Aprendizaje de correcciones manuales robustecido: los overrides del contador preservan la cuenta auto-detectada previa y ya no son sobrescritos por clasificaciones automáticas posteriores. Interfaz: nuevo botón ❓ Ayuda (y atajo F1) con guía paso a paso de todos los módulos. Extractor: se agrega columna Fecha a los archivos de Totales y Detalles del pipeline. Estabilidad: la detención de descargas DIAN ahora responde en ~2 s (antes podía tardar hasta 150 s)."
+  "version": "1.0.5",
+  "url_descarga": "https://github.com/Joesnick/Asesores360-Releases/releases/download/v1.0.5/ContaClick360.zip",
+  "novedades": "UI renovada con PySide6 y mejoras en el sistema de licencias."
 }
